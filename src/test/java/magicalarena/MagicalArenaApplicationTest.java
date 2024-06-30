@@ -1,5 +1,7 @@
+package magicalarena;
+
 import magicalarena.model.Player;
-import service.GameServiceTest;
+import magicalarena.service.GameServiceTest;
 
 public class MagicalArenaApplicationTest {
 

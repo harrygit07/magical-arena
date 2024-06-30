@@ -1,4 +1,4 @@
-package service;
+package magicalarena.service;
 
 import magicalarena.model.Player;
 import magicalarena.service.GameService;
